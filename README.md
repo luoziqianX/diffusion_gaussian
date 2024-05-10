@@ -1,2 +1,3 @@
-# diffusion_gaussian
-A gaussian diffusion model test
+## Diffusion model for **Gaussian** object
+
+1D diffusion model from gaussian to gaussian
